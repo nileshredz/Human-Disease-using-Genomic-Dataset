@@ -1,6 +1,9 @@
-# Human Disease using Genomic Dataset
+# Predicting Human Disease using Genomic Dataset
 
-![alt text](dna-sequence-730x520.jpg)
+![DNA Sequence](dna-sequence-730x520.jpg)
+
+## Data Imbalance:
+![Imbalanced Data](data.png)
 ## Background:  
 Traditionally diseases are assessed by looking at their Symptoms by their family general practitioners. Although this method is effective, there is a slim chance that they might misinterpret a disease and mistreat it. Mistreating could result in being harmful to individuals receiving those treatments. But, understanding the genomic structure of the individuals could help us give a better view of the diseases that are likely to happen.   
 ## Methods: 
